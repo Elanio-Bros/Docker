@@ -159,3 +159,4 @@ docker-compose build
 ```
 
 Dá o comando para fazer bild do arquivo Yarm
+Créditos [Eladiolink](https://github.com/Eladiolink)
